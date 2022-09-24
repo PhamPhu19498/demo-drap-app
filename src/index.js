@@ -7,9 +7,9 @@ import Providers from './Providers';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Providers>
-    <App />
-  </Providers>
+    <Providers>
+      <App />
+    </Providers>
 );
 
 // If you want to start measuring performance in your app, pass a function
