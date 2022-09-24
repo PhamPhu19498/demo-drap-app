@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project in GitHub [Create React App](https://github.com/PhamPhu19498/demo-drap-app).
+This project in GitHub [Link GitHub](https://github.com/PhamPhu19498/demo-drap-app).
 
 ## Available Scripts
 
